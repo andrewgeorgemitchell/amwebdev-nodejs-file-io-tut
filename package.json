@@ -1,7 +1,7 @@
 {
   "name": "amwebdev-nodejs-file-io-tut",
   "version": "1.0.0",
-  "description": "A tutorial for reading and writing to filesystem\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Cthe filesystem in nodejs",
+  "description": "A tutorial for reading and writing to the filesystem in nodejs https://amwebdev.com/nodejs-file-io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
